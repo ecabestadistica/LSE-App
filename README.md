@@ -38,6 +38,7 @@ A, B, C, CH, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, U, W, X
 │   └── html/
 │       ├── index.html            # Web app frontend
 │       └── example_imgs/         # Reference images for each letter 
+├── Demo.mp4                      # demonstration video
 ├── requirementsLSE.txt           # Python dependencies
 ├── LICENSE.md                    # CC BY-NC-SA 4.0
 └── README.md
